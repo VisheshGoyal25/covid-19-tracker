@@ -6,7 +6,7 @@ function News({data}) {
         <div className={Style.div1}>
             <p className={Style.p}>{data.title}
             </p>
-            <button className={Style.b} ><a href={data.link} target="_blank" >More Info</a></button>
+            <button className={Style.b} ><a href={data.link} target="_blank"  rel="noopener noreferrer" >More Info</a></button>
             
         </div>
     )

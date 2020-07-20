@@ -1,0 +1,14 @@
+.div1
+{
+    font-size: 2rem;
+    text-align: center;
+    background-color: rgb(214, 193, 193);
+}
+.b:hover
+{
+    background-color:rgb(114, 206, 114);
+}
+.p
+{
+    font-size: 1.5rem;
+}
